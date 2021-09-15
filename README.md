@@ -1,4 +1,4 @@
-# Code for ```Balancing detectability and performance of attacks on the control channel of Markov Decision Processes```
+# Code for Balancing detectability and performance of attacks on the control channel of Markov Decision Processes
 
 _Author_: Alessio Russo, alessior@kth.se
 
